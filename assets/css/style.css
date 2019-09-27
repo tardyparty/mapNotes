@@ -1,9 +1,19 @@
-#mapView {
+#mapView,
+#imgPreview {
+    display: inline-block;
     height: 500px;
     width: 500px;
 }
 
+
 .jumbotron {
     background-color: #1f3349;
-    color: white;
+    color: rgb(187, 187, 201);
 }
+
+
+#title {
+    font-size: 30pt;
+    color: blueviolet;
+}
+
